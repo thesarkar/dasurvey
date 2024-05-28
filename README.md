@@ -1,4 +1,4 @@
-#Data Analyst Survey Report
+##Data Analyst Survey Report
 
 In this project, I have utilized data from a survey conducted among Data Analysts on LinkedIn to create an insightful and interactive report using Power BI. The goal of this project is to analyze various professional aspects of the professional lives of individuals working in data-related fields. The report addresses the following key questions:
 
